@@ -1,0 +1,14 @@
+com\ua\integrity\process\GetFixedPercentDelegate.class
+com\ua\integrity\LoggerDelegate.class
+com\ua\integrity\rest\model\StartProcessByMessageRequest.class
+com\ua\integrity\rest\service\CheckBonusTypeDelegate.class
+com\ua\integrity\process\GetFixedAmountDelegate.class
+com\ua\integrity\rest\instrument\InjClient.class
+com\ua\integrity\rest\instrument\ProducerClient.class
+com\ua\integrity\rest\model\RequestDeductFromAccount.class
+com\ua\integrity\process\RoundToIntegerAmountDelegate.class
+com\ua\integrity\rest\service\SendBonusAmountToDeductFromAccount.class
+com\ua\integrity\rest\model\RequestBonusType.class
+com\ua\integrity\rest\model\RequestCardNumber.class
+com\ua\integrity\rest\endpoints\StartProcessEndpoints.class
+com\ua\integrity\model\ProcessVariables.class

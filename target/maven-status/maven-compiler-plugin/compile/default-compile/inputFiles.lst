@@ -1,0 +1,14 @@
+C:\Users\Votas\IdeaProjects\BonusProject\src\main\java\com\ua\integrity\rest\endpoints\StartProcessEndpoints.java
+C:\Users\Votas\IdeaProjects\BonusProject\src\main\java\com\ua\integrity\rest\instrument\InjClient.java
+C:\Users\Votas\IdeaProjects\BonusProject\src\main\java\com\ua\integrity\process\RoundToIntegerAmountDelegate.java
+C:\Users\Votas\IdeaProjects\BonusProject\src\main\java\com\ua\integrity\rest\service\CheckBonusTypeDelegate.java
+C:\Users\Votas\IdeaProjects\BonusProject\src\main\java\com\ua\integrity\rest\service\SendBonusAmountToDeductFromAccount.java
+C:\Users\Votas\IdeaProjects\BonusProject\src\main\java\com\ua\integrity\rest\model\RequestDeductFromAccount.java
+C:\Users\Votas\IdeaProjects\BonusProject\src\main\java\com\ua\integrity\rest\model\RequestBonusType.java
+C:\Users\Votas\IdeaProjects\BonusProject\src\main\java\com\ua\integrity\rest\model\StartProcessByMessageRequest.java
+C:\Users\Votas\IdeaProjects\BonusProject\src\main\java\com\ua\integrity\LoggerDelegate.java
+C:\Users\Votas\IdeaProjects\BonusProject\src\main\java\com\ua\integrity\model\ProcessVariables.java
+C:\Users\Votas\IdeaProjects\BonusProject\src\main\java\com\ua\integrity\process\GetFixedAmountDelegate.java
+C:\Users\Votas\IdeaProjects\BonusProject\src\main\java\com\ua\integrity\rest\model\RequestCardNumber.java
+C:\Users\Votas\IdeaProjects\BonusProject\src\main\java\com\ua\integrity\process\GetFixedPercentDelegate.java
+C:\Users\Votas\IdeaProjects\BonusProject\src\main\java\com\ua\integrity\rest\instrument\ProducerClient.java
