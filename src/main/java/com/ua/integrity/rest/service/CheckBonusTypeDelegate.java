@@ -26,9 +26,8 @@ public class CheckBonusTypeDelegate implements JavaDelegate {
         RequestCardNumber requestCardNumber = new RequestCardNumber(cardNumber);
         Entity<RequestCardNumber> json = Entity.json(requestCardNumber);
         Response response = client.target("https://44766659-08dd-4c55-a28f-09c5f022073f.mock.pstmn.io/bonusType").request(MediaType.APPLICATION_JSON).post(json);
-        String responseData = response.getEntity().toString();
-        RequestBonusType requestBonusTypeAnswer = new RequestBonusType(responseData);
-        String bonusType = requestBonusTypeAnswer.getBonusType();
+        RequestBonusType requestBonusType = response.readEntity(RequestBonusType.class);
+        String bonusType = requestBonusType.getBonusType();
 
         delegateExecution.setVariable(ProcessVariables.BONUS_TYPE, bonusType);
     }

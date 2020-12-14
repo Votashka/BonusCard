@@ -1,6 +1,6 @@
 package com.ua.integrity.rest.instrument;
 
-import javax.ws.rs.Produces;
+import javax.enterprise.inject.Produces;
 import java.io.Serializable;
 import javax.ws.rs.client.Client;
 import javax.ws.rs.client.ClientBuilder;

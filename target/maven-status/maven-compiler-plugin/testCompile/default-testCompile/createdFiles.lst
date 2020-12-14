@@ -1,2 +1,3 @@
 com\ua\integrity\ArquillianTest.class
+com\ua\integrity\rest\endpoints\StartProcessEndpointsTest.class
 com\ua\integrity\nonarquillian\InMemoryH2Test.class
