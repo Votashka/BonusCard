@@ -12,7 +12,7 @@ public class GetFixedPercentDelegate implements JavaDelegate {
     public void execute(DelegateExecution delegateExecution) throws Exception {
         String amount = (String) delegateExecution.getVariable(ProcessVariables.AMOUNT);
         double amountD = new Double(amount);
-        double fixedPercent = 0.05;
+        double fixedPercent = 0.05; // это типа 5% ?
         double bonusAmount = (double) Math.round(fixedPercent*amountD/100 * 10000d) / 10000d;
 
         delegateExecution.setVariable(ProcessVariables.BONUS_AMOUNT,bonusAmount);
