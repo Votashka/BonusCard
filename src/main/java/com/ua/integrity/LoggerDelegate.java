@@ -1,5 +1,5 @@
 package com.ua.integrity;
-
+// TODO: 18.01.2021 remove unnecessary class 
 import java.util.logging.Logger;
 
 import javax.inject.Named;
